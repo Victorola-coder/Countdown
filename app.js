@@ -21,7 +21,7 @@ const countDown = () => {
 
     if (now === countDate) {
         document.querySelector(".waiting").innerHTML(`<img src="./hny.gif" alt="HAPPY NEW YEAR!">`)
-        document.querySelector(".head").innerText("HAPPY NEW YEAR!")
+        document.querySelector(".end").innerText="Expired"
     }
 }
 

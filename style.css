@@ -10,7 +10,7 @@ body {
     url(2022.jpg);
   background-size: cover;
   background-position: center;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 .container {
   width: 100%;

@@ -64,7 +64,7 @@ body {
 
 #main-footer {
   color: green;
-  margin-top: 600px;
+  margin-bottom: -600px;
   font-weight: bolder;
   font-size: 10px;
   font-family: tahoma;
